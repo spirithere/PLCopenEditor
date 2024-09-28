@@ -1,0 +1,129 @@
+0 verbose cli /usr/local/share/nvm/versions/node/v20.17.0/bin/node /home/codespace/nvm/current/bin/npm
+1 info using npm@10.8.2
+2 info using node@v20.17.0
+3 silly config load:file:/usr/local/share/nvm/versions/node/v20.17.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/workspaces/PLCopenEditor/plcopeneditor/.npmrc
+5 silly config load:file:/home/codespace/.npmrc
+6 silly config load:file:/usr/local/share/nvm/versions/node/v20.17.0/etc/npmrc
+7 verbose title npm install
+8 verbose argv "install"
+9 verbose logfile logs-max:10 dir:/home/codespace/.npm/_logs/2024-09-28T16_50_37_778Z-
+10 verbose logfile /home/codespace/.npm/_logs/2024-09-28T16_50_37_778Z-debug-0.log
+11 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+12 silly logfile done cleaning log files
+13 silly idealTree buildDeps
+14 silly fetch manifest fast-xml-parser@^3.19.0
+15 silly packumentCache full:https://registry.npmjs.org/fast-xml-parser cache-miss
+16 http fetch GET 200 https://registry.npmjs.org/fast-xml-parser 114ms (cache hit)
+17 silly packumentCache full:https://registry.npmjs.org/fast-xml-parser set size:440244 disposed:false
+18 silly fetch manifest @types/mocha@^9.0.0
+19 silly packumentCache full:https://registry.npmjs.org/@types%2fmocha cache-miss
+20 http fetch GET 200 https://registry.npmjs.org/@types%2fmocha 5ms (cache hit)
+21 silly packumentCache full:https://registry.npmjs.org/@types%2fmocha set size:129709 disposed:false
+22 silly fetch manifest @types/node@^14.17.0
+23 silly packumentCache full:https://registry.npmjs.org/@types%2fnode cache-miss
+24 http fetch GET 200 https://registry.npmjs.org/@types%2fnode 29ms (cache hit)
+25 silly packumentCache full:https://registry.npmjs.org/@types%2fnode set size:9162922 disposed:false
+26 silly fetch manifest @typescript-eslint/eslint-plugin@^4.29.0
+27 silly packumentCache full:https://registry.npmjs.org/@typescript-eslint%2feslint-plugin cache-miss
+28 http fetch GET 200 https://registry.npmjs.org/@typescript-eslint%2feslint-plugin 72ms (cache hit)
+29 silly packumentCache full:https://registry.npmjs.org/@typescript-eslint%2feslint-plugin set size:14582144 disposed:false
+30 silly fetch manifest @typescript-eslint/parser@^4.29.0
+31 silly packumentCache full:https://registry.npmjs.org/@typescript-eslint%2fparser cache-miss
+32 http fetch GET 200 https://registry.npmjs.org/@typescript-eslint%2fparser 55ms (cache hit)
+33 silly packumentCache full:https://registry.npmjs.org/@typescript-eslint%2fparser set size:12740896 disposed:false
+34 silly fetch manifest eslint@^7.32.0
+35 silly packumentCache full:https://registry.npmjs.org/eslint cache-miss
+36 http fetch GET 200 https://registry.npmjs.org/eslint 5ms (cache hit)
+37 silly packumentCache full:https://registry.npmjs.org/eslint set size:1611777 disposed:false
+38 silly fetch manifest chai@^4.3.4
+39 silly packumentCache full:https://registry.npmjs.org/chai cache-miss
+40 http fetch GET 200 https://registry.npmjs.org/chai 3ms (cache hit)
+41 silly packumentCache full:https://registry.npmjs.org/chai set size:194264 disposed:false
+42 silly fetch manifest eslint-config-prettier@^8.3.0
+43 silly packumentCache full:https://registry.npmjs.org/eslint-config-prettier cache-miss
+44 http fetch GET 200 https://registry.npmjs.org/eslint-config-prettier 3ms (cache hit)
+45 silly packumentCache full:https://registry.npmjs.org/eslint-config-prettier set size:207180 disposed:false
+46 silly fetch manifest eslint-plugin-prettier@^3.4.0
+47 silly packumentCache full:https://registry.npmjs.org/eslint-plugin-prettier cache-miss
+48 http fetch GET 200 https://registry.npmjs.org/eslint-plugin-prettier 2ms (cache hit)
+49 silly packumentCache full:https://registry.npmjs.org/eslint-plugin-prettier set size:140117 disposed:false
+50 silly fetch manifest prettier@^2.3.2
+51 silly packumentCache full:https://registry.npmjs.org/prettier cache-miss
+52 http fetch GET 200 https://registry.npmjs.org/prettier 4ms (cache hit)
+53 silly packumentCache full:https://registry.npmjs.org/prettier set size:536542 disposed:false
+54 silly fetch manifest mocha@^9.1.0
+55 silly packumentCache full:https://registry.npmjs.org/mocha cache-miss
+56 http fetch GET 200 https://registry.npmjs.org/mocha 7ms (cache hit)
+57 silly packumentCache full:https://registry.npmjs.org/mocha set size:3132772 disposed:false
+58 silly fetch manifest ts-node@^10.2.1
+59 silly packumentCache full:https://registry.npmjs.org/ts-node cache-miss
+60 http fetch GET 200 https://registry.npmjs.org/ts-node 3ms (cache hit)
+61 silly packumentCache full:https://registry.npmjs.org/ts-node set size:574536 disposed:false
+62 silly fetch manifest @swc/core@>=1.2.50
+63 silly packumentCache full:https://registry.npmjs.org/@swc%2fcore cache-miss
+64 http fetch GET 200 https://registry.npmjs.org/@swc%2fcore 7ms (cache hit)
+65 silly packumentCache full:https://registry.npmjs.org/@swc%2fcore set size:3268024 disposed:false
+66 silly fetch manifest @swc/helpers@*
+67 silly packumentCache full:https://registry.npmjs.org/@swc%2fhelpers cache-miss
+68 http fetch GET 200 https://registry.npmjs.org/@swc%2fhelpers 4ms (cache hit)
+69 silly packumentCache full:https://registry.npmjs.org/@swc%2fhelpers set size:581456 disposed:false
+70 silly fetch manifest @swc/wasm@>=1.2.50
+71 silly packumentCache full:https://registry.npmjs.org/@swc%2fwasm cache-miss
+72 http fetch GET 200 https://registry.npmjs.org/@swc%2fwasm 4ms (cache hit)
+73 silly packumentCache full:https://registry.npmjs.org/@swc%2fwasm set size:1023883 disposed:false
+74 silly fetch manifest typescript@^4.4.2
+75 silly packumentCache full:https://registry.npmjs.org/typescript cache-miss
+76 http fetch GET 200 https://registry.npmjs.org/typescript 33ms (cache hit)
+77 silly packumentCache full:https://registry.npmjs.org/typescript set size:13265839 disposed:false
+78 silly fetch manifest vscode-test@^1.6.0
+79 silly packumentCache full:https://registry.npmjs.org/vscode-test cache-miss
+80 http fetch GET 200 https://registry.npmjs.org/vscode-test 3ms (cache hit)
+81 silly packumentCache full:https://registry.npmjs.org/vscode-test set size:116462 disposed:false
+82 silly placeDep ROOT @types/mocha@9.1.1 REPLACE for: plcopeneditor@0.0.1 want: ^9.0.0
+83 silly placeDep ROOT @types/node@14.18.63 REPLACE for: plcopeneditor@0.0.1 want: ^14.17.0
+84 verbose stack Error: could not resolve
+84 verbose stack     at PlaceDep.failPeerConflict (/usr/local/share/nvm/versions/node/v20.17.0/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/place-dep.js:503:25)
+84 verbose stack     at new PlaceDep (/usr/local/share/nvm/versions/node/v20.17.0/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/place-dep.js:157:21)
+84 verbose stack     at #buildDepStep (/usr/local/share/nvm/versions/node/v20.17.0/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:917:18)
+84 verbose stack     at async Arborist.buildIdealTree (/usr/local/share/nvm/versions/node/v20.17.0/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:181:7)
+84 verbose stack     at async Promise.all (index 1)
+84 verbose stack     at async Arborist.reify (/usr/local/share/nvm/versions/node/v20.17.0/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/reify.js:131:5)
+84 verbose stack     at async Install.exec (/usr/local/share/nvm/versions/node/v20.17.0/lib/node_modules/npm/lib/commands/install.js:150:5)
+84 verbose stack     at async Npm.exec (/usr/local/share/nvm/versions/node/v20.17.0/lib/node_modules/npm/lib/npm.js:207:9)
+84 verbose stack     at async module.exports (/usr/local/share/nvm/versions/node/v20.17.0/lib/node_modules/npm/lib/cli/entry.js:74:5)
+85 error code ERESOLVE
+86 error ERESOLVE could not resolve
+87 error
+88 error While resolving: plcopeneditor@0.0.1
+88 error Found: @typescript-eslint/eslint-plugin@8.7.0[2m[22m
+88 error [2mnode_modules/@typescript-eslint/eslint-plugin[22m
+88 error   [34mdev[39m @typescript-eslint/eslint-plugin@"^4.29.0" from the root project
+88 error
+88 error Could not resolve dependency:
+88 error [34mdev[39m @typescript-eslint/eslint-plugin@"^4.29.0" from the root project
+88 error
+88 error Conflicting peer dependency: eslint@7.32.0[2m[22m
+88 error [2mnode_modules/eslint[22m
+88 error   [95mpeer[39m eslint@"^5.0.0 || ^6.0.0 || ^7.0.0" from @typescript-eslint/eslint-plugin@4.33.0[2m[22m
+88 error   [2mnode_modules/@typescript-eslint/eslint-plugin[22m
+88 error     [34mdev[39m @typescript-eslint/eslint-plugin@"^4.29.0" from the root project
+88 error
+88 error Fix the upstream dependency conflict, or retry
+88 error this command with --force or --legacy-peer-deps
+88 error to accept an incorrect (and potentially broken) dependency resolution.
+89 error
+89 error
+89 error For a full report see:
+89 error /home/codespace/.npm/_logs/2024-09-28T16_50_37_778Z-eresolve-report.txt
+90 silly unfinished npm timer reify 1727542238036
+91 silly unfinished npm timer reify:loadTrees 1727542238038
+92 silly unfinished npm timer idealTree:buildDeps 1727542238131
+93 silly unfinished npm timer idealTree:#root 1727542238132
+94 verbose cwd /workspaces/PLCopenEditor/plcopeneditor
+95 verbose os Linux 6.8.0-1014-azure
+96 verbose node v20.17.0
+97 verbose npm  v10.8.2
+98 verbose exit 1
+99 verbose code 1
+100 error A complete log of this run can be found in: /home/codespace/.npm/_logs/2024-09-28T16_50_37_778Z-debug-0.log

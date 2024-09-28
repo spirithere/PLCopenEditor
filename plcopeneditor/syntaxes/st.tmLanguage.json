@@ -1,0 +1,24 @@
+{
+    "fileTypes": ["st"],
+    "scopeName": "source.st",
+    "patterns": [
+      {
+        "name": "keyword.control.st",
+        "match": "\\b(IF|THEN|ELSE|END_IF|FOR|END_FOR|WHILE|DO|END_WHILE)\\b"
+      },
+      {
+        "name": "comment.line.double-slash.st",
+        "begin": "//",
+        "end": "$"
+      },
+      {
+        "name": "string.quoted.double.st",
+        "begin": "\"",
+        "end": "\""
+      },
+      {
+        "name": "constant.numeric.st",
+        "match": "\\b\\d+(\\.\\d+)?\\b"
+      }
+    ]
+  }
